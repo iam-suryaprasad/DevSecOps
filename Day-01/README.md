@@ -132,7 +132,6 @@ aws s3 ls | awk '{print $3, $2, $1}'
 
 ### grep command
 
-aws s3 ls | cut -d " " -f3 | grep -i www.
 ##### Explanation:
 . | grep -i www.:
  . grep: This command searches for patterns in text.
