@@ -1,4 +1,4 @@
-#Day-05 shell scripting
+# Day-05 shell scripting
 
 1. RegEx : We can use RegEx to search for specific patterns in a text. For example, finding dates, emails, phone numbers, or specific keywords.
 2. Arrays: Array is nothing but list of components.
